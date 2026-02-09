@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, welcome! ✨
 
-<!--
-**peacockjuice/peacockjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a QA / AQA engineer (backend-first)**  
+E2E automation · Release management
 
-Here are some ideas to get you started:
+### Stack
+- **Automation:** Pytest, PHPUnit, Playwright, Appium
+- **Service mocks:** WireMock, FastAPI-based mocks
+- **Manual testing:** frontend and mobile (iOS, Android, Flutter, React Native, Unity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI-assisted testing
+- **Mostly via Claude Code:** acceptance criteria, critical user paths, test cases, unit tests, E2E tests
+
+### Approach
+- Focus on specs, risks, and improving E2E reliability
+---
+### About this repository
+This repository contains my personal experiments, tools, and small projects.
+
+Open to QA / AQA roles and collaboration.
